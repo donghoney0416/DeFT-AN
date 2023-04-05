@@ -1,5 +1,7 @@
 # DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement
 
+![Speech enhancement diagram](speech_enhancement.png)
+
 
 In this study, we propose a dense frequencytime attentive network (DeFT-AN) for multichannel speech enhancement. DeFT-AN is a mask estimation network that
 predicts a complex spectral masking pattern for suppressing the noise and reverberation embedded in the short-time Fourier transform (STFT) of an input signal. The proposed
