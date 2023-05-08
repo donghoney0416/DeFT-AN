@@ -1,5 +1,5 @@
 # DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement
-[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10042963)
+[D. Lee and J-W. Choi, "DeFT-AN: Dense Frequency-Time Attentive Network for Multichannel Speech Enhancement," IEEE Signal Processing Letters vol.30, pp.155-159, 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10042963)
 
 ![Speech enhancement diagram](speech_enhancement.png)
 
