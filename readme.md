@@ -14,9 +14,7 @@ based on training and testing over two noisy reverberant datasets.
 
 ![DeFT-A_block](Sub-block_figure.png)
 
-Both experiments with the spatialized WSJCAM0 dataset and the spatialized DNS challenge dataset show that the DeFTAN outperforms the state-of-the-art models by a large margin in terms of most evaluation measures. Notably, the proposed method exhibits highly improved SI-SDR and PESQ values
-relative to those of the baseline models. The proposed method was also compared with the two-stage approach using ADCN for the first stage and TPARNfor the second stage (ADCN-TPARN). The single-stage performance of the proposed model is similar to that of the two-stage approach,
-but the 2-stage setting of the proposed model again outperforms ADCN-TPARN. 
+Both experiments with the spatialized WSJCAM0 dataset and the spatialized DNS challenge dataset show that the DeFTAN outperforms the state-of-the-art models by a large margin in terms of most evaluation measures. Notably, the proposed method exhibits highly improved SI-SDR and PESQ values relative to those of the baseline models. The proposed method was also compared with the two-stage approach using ADCN for the first stage and TPARN for the second stage (ADCN-TPARN). The single-stage performance of the proposed model is similar to that of the two-stage approach, but the 2-stage setting of the proposed model again outperforms ADCN-TPARN. 
 
 ![Experimental_result](Exp_result.png)
 
